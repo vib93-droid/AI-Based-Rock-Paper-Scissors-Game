@@ -22,6 +22,3 @@ This project is an AI-based Rock Paper Scissors game where the user plays agains
 4. Winner is displayed
 5. Scores are updated after every round
 
-## How to Run
-```bash
-python rock_paper_scissors.py
