@@ -1,5 +1,3 @@
-## README — AI-Based Rock Paper Scissors Game
-
 # AI-Based Rock Paper Scissors Game
 
 ## Project Overview
